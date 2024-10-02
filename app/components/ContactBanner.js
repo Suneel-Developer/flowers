@@ -10,7 +10,7 @@ const ContactBanner = () => {
                 </h2>
 
                 <p className="text-base text-[#000000] text-center tracking-[0.6px] max-w-[676px] w-full mx-auto">
-                    We'll be happy to send you a detailed floral proposal, after we'll get your wedding information
+                    We&apos;ll be happy to send you a detailed floral proposal, after we&apos;ll get your wedding information
                 </p>
 
                 <button className="tracking-[0.6px] text-[#121212] text-lg mt-4 bg-[#FADCDC] px-3 py-2 border border-opacity-55 hover:border-opacity-100 border-[#121212] transition-all duration-300 w-[176px] text-center">

@@ -26,7 +26,7 @@ const Home = () => {
               </p>
 
               <p className="mb-8 tracking-[0.6px] text-[15px] md:text-base text-[#121212bf]">
-                Learn everything you need, step by step - from important paperwork to the nitty-gritty of running, pricing, talking to clients, and marketing. I've got a special plan to make your brand stand out and grow. I'll guide you with my simple and proven methods that helped me build successful businesses. Ready to boost your brand? Join now and let's get started!
+                Learn everything you need, step by step - from important paperwork to the nitty-gritty of running, pricing, talking to clients, and marketing. I&apos;ve got a special plan to make your brand stand out and grow. I&apos;ll guide you with my simple and proven methods that helped me build successful businesses. Ready to boost your brand? Join now and let&apos;s get started!
               </p>
             </div>
 
@@ -53,7 +53,7 @@ const Home = () => {
             </p>
 
             <p className="text-[15px] tracking-[0.6px] text-[#121212] text-center lg:text-start f-cinzel">
-              Our dream is to continue touching people's lives through the beauty and power of flowers, creating unforgettable moments and leaving a lasting legacy in the world of floristry.
+              Our dream is to continue touching people&apos;s lives through the beauty and power of flowers, creating unforgettable moments and leaving a lasting legacy in the world of floristry.
             </p>
 
             <button className="tracking-[0.6px] text-[#121212] text-lg mt-12 bg-[#FADCDC] px-2 py-2 border border-opacity-55 hover:border-opacity-100 border-[#121212] transition-all duration-300 w-[150px] text-center">
